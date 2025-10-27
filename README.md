@@ -1,4 +1,4 @@
-# LazyPro 產品文檔
+# LazyPro 使用說明
 
 LazyPro 提供專業的網頁效能分析與電子發票解決方案。
 
