@@ -1,5 +1,7 @@
 # Summary
 
+* [LazyPro](README.md)
+
 ## PageSpeed
 
 * [產品介紹](content/pagespeed/00-overview.md)
