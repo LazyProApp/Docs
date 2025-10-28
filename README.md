@@ -2,9 +2,9 @@
 
 Built by Pure Vibe Coding
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-<tr>
-<td width="50%" valign="top">
+<div style="display: flex; gap: 2rem;">
+
+<div style="flex: 1;">
 
 ## Invoice
 
@@ -16,8 +16,9 @@ Built by Pure Vibe Coding
 - [上傳發票資料](./content/invoice/04-upload-data.md)
 - [查看全部 →](./content/invoice/00-overview.md)
 
-</td>
-<td width="50%" valign="top">
+</div>
+
+<div style="flex: 1;">
 
 ## PageSpeed
 
@@ -29,9 +30,7 @@ Built by Pure Vibe Coding
 - [Pro Mode 切換](./content/pagespeed/04-pro-mode-toggle.md)
 - [查看全部 →](./content/pagespeed/00-overview.md)
 
-</td>
-</tr>
-</table>
+</div>
 
----
+</div>
 
