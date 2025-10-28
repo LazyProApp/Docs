@@ -8,8 +8,7 @@
 * [快速開始](content/invoice/01-quick-start.md)
 * [使用 AI 轉換訂單資料](content/invoice/02-ai-convert.md)
 * [JSON 檔案格式](content/invoice/03-json-format.md)
-* [上傳發票資料](content/invoice/04-upload-data.md)
-* [測試環境限制](content/invoice/05-test-limitations.md)
+* [測試環境限制](content/invoice/04-test-limitations.md)
 
 ## PageSpeed
 
