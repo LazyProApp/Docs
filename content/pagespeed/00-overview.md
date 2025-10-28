@@ -1,4 +1,4 @@
-![Lazy PageSpeed](../assets/images/og-image.png)
+# Lazy PageSpeed
 
 > 天下網頁，唯快不破
 
@@ -50,7 +50,3 @@ Lazy PageSpeed 是 Google PageSpeed Insights API 的增強工具，批次分析�
 不是。報告分享功能是選用的，需要自己設定 Cloudflare R2。
 
 詳見：[分享功能限制](10-share-limitations.md)
-
-## 報告範例
-
-![PageSpeed 分析報告](../assets/images/2-report.png)
